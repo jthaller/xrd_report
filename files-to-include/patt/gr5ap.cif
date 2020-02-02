@@ -1,0 +1,485 @@
+ 
+data_gr5ap 
+ 
+_audit_creation_method            SHELXL-97 
+_chemical_name_systematic 
+; 
+ ? 
+; 
+_chemical_name_common             ? 
+_chemical_melting_point           ? 
+_chemical_formula_moiety          ? 
+_chemical_formula_sum 
+ 'Ca5 Cl0.04 F0.96 O12 P3' 
+_chemical_formula_weight          504.97 
+ 
+loop_ 
+ _atom_type_symbol 
+ _atom_type_description 
+ _atom_type_scat_dispersion_real 
+ _atom_type_scat_dispersion_imag 
+ _atom_type_scat_source 
+ 'O'  'O'   0.0106   0.0060 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'F'  'F'   0.0171   0.0103 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'P'  'P'   0.1023   0.0942 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Ca'  'Ca'   0.2262   0.3064 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Cl'  'Cl'   0.1484   0.1585 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 
+_symmetry_cell_setting            ? 
+_symmetry_space_group_name_H-M    ? 
+ 
+loop_ 
+ _symmetry_equiv_pos_as_xyz 
+ 'x, y, z' 
+ '-y, x-y, z' 
+ '-x+y, -x, z' 
+ '-x, -y, z+1/2' 
+ 'y, -x+y, z+1/2' 
+ 'x-y, x, z+1/2' 
+ '-x, -y, -z' 
+ 'y, -x+y, -z' 
+ 'x-y, x, -z' 
+ 'x, y, -z-1/2' 
+ '-y, x-y, -z-1/2' 
+ '-x+y, -x, -z-1/2' 
+ 
+_cell_length_a                    9.39686(13) 
+_cell_length_b                    9.39686(13) 
+_cell_length_c                    6.88540(10) 
+_cell_angle_alpha                 90.00 
+_cell_angle_beta                  90.00 
+_cell_angle_gamma                 120.00 
+_cell_volume                      526.532(13) 
+_cell_formula_units_Z             2 
+_cell_measurement_temperature     293(2) 
+_cell_measurement_reflns_used     ? 
+_cell_measurement_theta_min       ? 
+_cell_measurement_theta_max       ? 
+ 
+_exptl_crystal_description        ? 
+_exptl_crystal_colour             ? 
+_exptl_crystal_size_max           ? 
+_exptl_crystal_size_mid           ? 
+_exptl_crystal_size_min           ? 
+_exptl_crystal_density_meas       ? 
+_exptl_crystal_density_diffrn     3.185 
+_exptl_crystal_density_method     'not measured' 
+_exptl_crystal_F_000              501 
+_exptl_absorpt_coefficient_mu     3.094 
+_exptl_absorpt_correction_type    ? 
+_exptl_absorpt_correction_T_min   ? 
+_exptl_absorpt_correction_T_max   ? 
+_exptl_absorpt_process_details    ? 
+ 
+_exptl_special_details 
+; 
+ ? 
+; 
+ 
+_diffrn_ambient_temperature       293(2) 
+_diffrn_radiation_wavelength      0.71073 
+_diffrn_radiation_type            MoK\a 
+_diffrn_radiation_source          'fine-focus sealed tube' 
+_diffrn_radiation_monochromator   graphite 
+_diffrn_measurement_device_type   ? 
+_diffrn_measurement_method        ? 
+_diffrn_detector_area_resol_mean  ? 
+_diffrn_standards_number          ? 
+_diffrn_standards_interval_count  ? 
+_diffrn_standards_interval_time   ? 
+_diffrn_standards_decay_%         ? 
+_diffrn_reflns_number             21122 
+_diffrn_reflns_av_R_equivalents   0.0368 
+_diffrn_reflns_av_sigmaI/netI     0.0111 
+_diffrn_reflns_limit_h_min        -14 
+_diffrn_reflns_limit_h_max        15 
+_diffrn_reflns_limit_k_min        -15 
+_diffrn_reflns_limit_k_max        15 
+_diffrn_reflns_limit_l_min        -11 
+_diffrn_reflns_limit_l_max        11 
+_diffrn_reflns_theta_min          3.88 
+_diffrn_reflns_theta_max          34.79 
+_reflns_number_total              813 
+_reflns_number_gt                 756 
+_reflns_threshold_expression      >2sigma(I) 
+ 
+_computing_data_collection        ? 
+_computing_cell_refinement        ? 
+_computing_data_reduction         ? 
+_computing_structure_solution     'SHELXS-97 (Sheldrick, 1990)' 
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)' 
+_computing_molecular_graphics     ? 
+_computing_publication_material   ? 
+ 
+_refine_special_details 
+; 
+ Refinement of F^2^ against ALL reflections.  The weighted R-factor wR and 
+ goodness of fit S are based on F^2^, conventional R-factors R are based 
+ on F, with F set to zero for negative F^2^. The threshold expression of 
+ F^2^ > 2sigma(F^2^) is used only for calculating R-factors(gt) etc. and is 
+ not relevant to the choice of reflections for refinement.  R-factors based 
+ on F^2^ are statistically about twice as large as those based on F, and R- 
+ factors based on ALL data will be even larger. 
+; 
+ 
+_refine_ls_structure_factor_coef  Fsqd  
+_refine_ls_matrix_type            full 
+_refine_ls_weighting_scheme       calc  
+_refine_ls_weighting_details 
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0192P)^2^+0.4103P] where P=(Fo^2^+2Fc^2^)/3' 
+_atom_sites_solution_primary      direct 
+_atom_sites_solution_secondary    difmap 
+_atom_sites_solution_hydrogens    geom 
+_refine_ls_hydrogen_treatment     mixed 
+_refine_ls_extinction_method      SHELXL 
+_refine_ls_extinction_coef        0.0451(19) 
+_refine_ls_extinction_expression 
+ 'Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^' 
+_refine_ls_number_reflns          813 
+_refine_ls_number_parameters      43 
+_refine_ls_number_restraints      0 
+_refine_ls_R_factor_all           0.0206 
+_refine_ls_R_factor_gt            0.0179 
+_refine_ls_wR_factor_ref          0.0443 
+_refine_ls_wR_factor_gt           0.0434 
+_refine_ls_goodness_of_fit_ref    1.096 
+_refine_ls_restrained_S_all       1.096 
+_refine_ls_shift/su_max           0.127 
+_refine_ls_shift/su_mean          0.011 
+ 
+loop_ 
+ _atom_site_label 
+ _atom_site_type_symbol 
+ _atom_site_fract_x 
+ _atom_site_fract_y 
+ _atom_site_fract_z 
+ _atom_site_U_iso_or_equiv 
+ _atom_site_adp_type 
+ _atom_site_occupancy 
+ _atom_site_symmetry_multiplicity 
+ _atom_site_calc_flag 
+ _atom_site_refinement_flags 
+ _atom_site_disorder_assembly 
+ _atom_site_disorder_group 
+Ca1 Ca 0.3333 0.6667 0.49884(5) 0.01086(9) Uani 1 3 d S . . 
+Ca2 Ca 0.75079(4) 0.75787(4) 0.2500 0.00961(8) Uani 1 2 d S . . 
+P3 P 0.97053(4) 0.60153(4) 0.2500 0.00682(8) Uani 1 2 d S . . 
+F F 1.0000 1.0000 0.2500 0.0227(5) Uani 0.96 6 d SP . . 
+O1 O 0.87878(14) 0.41208(14) 0.2500 0.0136(2) Uani 1 2 d S . . 
+O2 O 1.15744(13) 0.67283(15) 0.2500 0.01186(19) Uani 1 2 d S . . 
+O3 O 0.91545(10) 0.65821(11) 0.07046(12) 0.01570(17) Uani 1 1 d . . . 
+Cl Cl 1.0000 1.0000 0.123(9) 0.093(14) Uani 0.04 3 d SP . . 
+ 
+loop_ 
+ _atom_site_aniso_label 
+ _atom_site_aniso_U_11 
+ _atom_site_aniso_U_22 
+ _atom_site_aniso_U_33 
+ _atom_site_aniso_U_23 
+ _atom_site_aniso_U_13 
+ _atom_site_aniso_U_12 
+Ca1 0.01263(11) 0.01263(11) 0.00732(15) 0.000 0.000 0.00631(5) 
+Ca2 0.01088(13) 0.01165(13) 0.00813(12) 0.000 0.000 0.00700(10) 
+P3 0.00619(15) 0.00728(15) 0.00698(15) 0.000 0.000 0.00334(12) 
+F 0.0099(5) 0.0099(5) 0.0482(16) 0.000 0.000 0.0050(3) 
+O1 0.0108(5) 0.0081(4) 0.0209(5) 0.000 0.000 0.0038(4) 
+O2 0.0071(4) 0.0156(5) 0.0126(5) 0.000 0.000 0.0054(4) 
+O3 0.0147(3) 0.0263(4) 0.0109(3) 0.0074(3) 0.0028(3) 0.0139(3) 
+Cl 0.065(11) 0.065(11) 0.15(4) 0.000 0.000 0.032(6) 
+ 
+_geom_special_details 
+; 
+ All esds (except the esd in the dihedral angle between two l.s. planes) 
+ are estimated using the full covariance matrix.  The cell esds are taken 
+ into account individually in the estimation of esds in distances, angles 
+ and torsion angles; correlations between esds in cell parameters are only 
+ used when they are defined by crystal symmetry.  An approximate (isotropic) 
+ treatment of cell esds is used for estimating esds involving l.s. planes. 
+; 
+ 
+loop_ 
+ _geom_bond_atom_site_label_1 
+ _geom_bond_atom_site_label_2 
+ _geom_bond_distance 
+ _geom_bond_site_symmetry_2 
+ _geom_bond_publ_flag 
+Ca1 O2 2.4014(8) 2_655 ? 
+Ca1 O2 2.4014(8) 3_675 ? 
+Ca1 O2 2.4014(8) 1_455 ? 
+Ca1 O1 2.4568(9) 8_566 ? 
+Ca1 O1 2.4569(9) 9_556 ? 
+Ca1 O1 2.4569(9) 7_666 ? 
+Ca1 O3 2.8091(10) 5_565 ? 
+Ca1 O3 2.8091(10) 4_665 ? 
+Ca1 O3 2.8092(9) 6 ? 
+Ca1 P3 3.2091(4) 8_566 ? 
+Ca1 P3 3.2092(4) 7_666 ? 
+Ca1 P3 3.2092(4) 9_556 ? 
+Ca2 F 2.3092(3) . ? 
+Ca2 O3 2.3499(8) 5_565 ? 
+Ca2 O3 2.3500(8) 8_565 ? 
+Ca2 O1 2.3750(12) 2_655 ? 
+Ca2 Cl 2.47(2) 10_556 ? 
+Ca2 Cl 2.47(2) . ? 
+Ca2 O3 2.4996(9) 10_556 ? 
+Ca2 O3 2.4997(9) . ? 
+Ca2 O2 2.6994(13) 3_675 ? 
+Ca2 P3 3.0750(5) . ? 
+Ca2 P3 3.2640(5) 3_675 ? 
+Ca2 P3 3.4951(5) 2_655 ? 
+P3 O3 1.5347(8) . ? 
+P3 O3 1.5347(8) 10_556 ? 
+P3 O2 1.5353(11) . ? 
+P3 O1 1.5420(12) . ? 
+P3 Ca1 3.2092(4) 7_666 ? 
+P3 Ca1 3.2092(4) 4_664 ? 
+P3 Ca2 3.2640(5) 2_765 ? 
+P3 Ca2 3.4950(5) 3_665 ? 
+F Cl 0.88(6) 10_556 ? 
+F Cl 0.88(6) . ? 
+F Ca2 2.3092(3) 2_765 ? 
+F Ca2 2.3093(3) 3_675 ? 
+O1 Ca2 2.3750(12) 3_665 ? 
+O1 Ca1 2.4569(9) 7_666 ? 
+O1 Ca1 2.4570(9) 4_664 ? 
+O2 Ca1 2.4013(8) 1_655 ? 
+O2 Ca1 2.4014(8) 10_656 ? 
+O2 Ca2 2.6994(13) 2_765 ? 
+O3 Ca2 2.3499(8) 9_655 ? 
+O3 Ca1 2.8091(9) 4_664 ? 
+Cl Cl 1.75(12) 10_556 ? 
+Cl Cl 1.69(12) 7_775 ? 
+Cl Ca2 2.47(2) 2_765 ? 
+Cl Ca2 2.47(2) 3_675 ? 
+ 
+loop_ 
+ _geom_angle_atom_site_label_1 
+ _geom_angle_atom_site_label_2 
+ _geom_angle_atom_site_label_3 
+ _geom_angle 
+ _geom_angle_site_symmetry_1 
+ _geom_angle_site_symmetry_3 
+ _geom_angle_publ_flag 
+O2 Ca1 O2 74.72(3) 2_655 3_675 ? 
+O2 Ca1 O2 74.72(3) 2_655 1_455 ? 
+O2 Ca1 O2 74.72(3) 3_675 1_455 ? 
+O2 Ca1 O1 92.58(3) 2_655 8_566 ? 
+O2 Ca1 O1 124.11(4) 3_675 8_566 ? 
+O2 Ca1 O1 154.29(4) 1_455 8_566 ? 
+O2 Ca1 O1 154.29(4) 2_655 9_556 ? 
+O2 Ca1 O1 92.58(3) 3_675 9_556 ? 
+O2 Ca1 O1 124.10(4) 1_455 9_556 ? 
+O1 Ca1 O1 75.93(3) 8_566 9_556 ? 
+O2 Ca1 O1 124.10(4) 2_655 7_666 ? 
+O2 Ca1 O1 154.29(4) 3_675 7_666 ? 
+O2 Ca1 O1 92.57(3) 1_455 7_666 ? 
+O1 Ca1 O1 75.93(3) 8_566 7_666 ? 
+O1 Ca1 O1 75.93(3) 9_556 7_666 ? 
+O2 Ca1 O3 86.71(3) 2_655 5_565 ? 
+O2 Ca1 O3 68.93(3) 3_675 5_565 ? 
+O2 Ca1 O3 142.43(3) 1_455 5_565 ? 
+O1 Ca1 O3 55.95(3) 8_566 5_565 ? 
+O1 Ca1 O3 67.75(3) 9_556 5_565 ? 
+O1 Ca1 O3 124.60(3) 7_666 5_565 ? 
+O2 Ca1 O3 68.93(3) 2_655 4_665 ? 
+O2 Ca1 O3 142.43(3) 3_675 4_665 ? 
+O2 Ca1 O3 86.71(3) 1_455 4_665 ? 
+O1 Ca1 O3 67.75(3) 8_566 4_665 ? 
+O1 Ca1 O3 124.60(3) 9_556 4_665 ? 
+O1 Ca1 O3 55.95(3) 7_666 4_665 ? 
+O3 Ca1 O3 116.986(11) 5_565 4_665 ? 
+O2 Ca1 O3 142.43(3) 2_655 6 ? 
+O2 Ca1 O3 86.71(3) 3_675 6 ? 
+O2 Ca1 O3 68.93(3) 1_455 6 ? 
+O1 Ca1 O3 124.60(3) 8_566 6 ? 
+O1 Ca1 O3 55.95(3) 9_556 6 ? 
+O1 Ca1 O3 67.75(3) 7_666 6 ? 
+O3 Ca1 O3 116.986(11) 5_565 6 ? 
+O3 Ca1 O3 116.986(11) 4_665 6 ? 
+O2 Ca1 P3 92.90(2) 2_655 8_566 ? 
+O2 Ca1 P3 97.47(3) 3_675 8_566 ? 
+O2 Ca1 P3 166.64(2) 1_455 8_566 ? 
+O1 Ca1 P3 27.73(3) 8_566 8_566 ? 
+O1 Ca1 P3 66.22(3) 9_556 8_566 ? 
+O1 Ca1 P3 98.65(2) 7_666 8_566 ? 
+O3 Ca1 P3 28.569(17) 5_565 8_566 ? 
+O3 Ca1 P3 93.564(19) 4_665 8_566 ? 
+O3 Ca1 P3 122.16(2) 6 8_566 ? 
+O2 Ca1 P3 97.47(3) 2_655 7_666 ? 
+O2 Ca1 P3 166.64(2) 3_675 7_666 ? 
+O2 Ca1 P3 92.90(2) 1_455 7_666 ? 
+O1 Ca1 P3 66.22(3) 8_566 7_666 ? 
+O1 Ca1 P3 98.65(2) 9_556 7_666 ? 
+O1 Ca1 P3 27.73(3) 7_666 7_666 ? 
+O3 Ca1 P3 122.16(2) 5_565 7_666 ? 
+O3 Ca1 P3 28.570(17) 4_665 7_666 ? 
+O3 Ca1 P3 93.564(19) 6 7_666 ? 
+P3 Ca1 P3 93.694(9) 8_566 7_666 ? 
+O2 Ca1 P3 166.64(2) 2_655 9_556 ? 
+O2 Ca1 P3 92.90(2) 3_675 9_556 ? 
+O2 Ca1 P3 97.47(3) 1_455 9_556 ? 
+O1 Ca1 P3 98.65(2) 8_566 9_556 ? 
+O1 Ca1 P3 27.73(3) 9_556 9_556 ? 
+O1 Ca1 P3 66.22(3) 7_666 9_556 ? 
+O3 Ca1 P3 93.565(18) 5_565 9_556 ? 
+O3 Ca1 P3 122.16(2) 4_665 9_556 ? 
+O3 Ca1 P3 28.569(17) 6 9_556 ? 
+P3 Ca1 P3 93.694(9) 8_566 9_556 ? 
+P3 Ca1 P3 93.693(9) 7_666 9_556 ? 
+F Ca2 O3 102.82(2) . 5_565 ? 
+F Ca2 O3 102.82(2) . 8_565 ? 
+O3 Ca2 O3 139.76(5) 5_565 8_565 ? 
+F Ca2 O1 152.49(3) . 2_655 ? 
+O3 Ca2 O1 85.67(2) 5_565 2_655 ? 
+O3 Ca2 O1 85.67(2) 8_565 2_655 ? 
+F Ca2 Cl 20.8(13) . 10_556 ? 
+O3 Ca2 Cl 82.8(13) 5_565 10_556 ? 
+O3 Ca2 Cl 122.7(12) 8_565 10_556 ? 
+O1 Ca2 Cl 146.0(7) 2_655 10_556 ? 
+F Ca2 Cl 20.8(13) . . ? 
+O3 Ca2 Cl 122.7(12) 5_565 . ? 
+O3 Ca2 Cl 82.8(13) 8_565 . ? 
+O1 Ca2 Cl 146.0(7) 2_655 . ? 
+Cl Ca2 Cl 42(3) 10_556 . ? 
+F Ca2 O3 81.74(2) . 10_556 ? 
+O3 Ca2 O3 78.042(18) 5_565 10_556 ? 
+O3 Ca2 O3 136.18(3) 8_565 10_556 ? 
+O1 Ca2 O3 74.42(3) 2_655 10_556 ? 
+Cl Ca2 O3 72.0(6) 10_556 10_556 ? 
+Cl Ca2 O3 92.4(7) . 10_556 ? 
+F Ca2 O3 81.74(2) . . ? 
+O3 Ca2 O3 136.18(3) 5_565 . ? 
+O3 Ca2 O3 78.042(18) 8_565 . ? 
+O1 Ca2 O3 74.42(3) 2_655 . ? 
+Cl Ca2 O3 92.4(7) 10_556 . ? 
+Cl Ca2 O3 72.0(6) . . ? 
+O3 Ca2 O3 59.28(4) 10_556 . ? 
+F Ca2 O2 106.64(3) . 3_675 ? 
+O3 Ca2 O2 71.62(2) 5_565 3_675 ? 
+O3 Ca2 O2 71.62(2) 8_565 3_675 ? 
+O1 Ca2 O2 100.87(4) 2_655 3_675 ? 
+Cl Ca2 O2 105.53(14) 10_556 3_675 ? 
+Cl Ca2 O2 105.53(14) . 3_675 ? 
+O3 Ca2 O2 149.59(2) 10_556 3_675 ? 
+O3 Ca2 O2 149.59(2) . 3_675 ? 
+F Ca2 P3 83.011(11) . . ? 
+O3 Ca2 P3 106.73(2) 5_565 . ? 
+O3 Ca2 P3 106.73(2) 8_565 . ? 
+O1 Ca2 P3 69.48(3) 2_655 . ? 
+Cl Ca2 P3 83.47(6) 10_556 . ? 
+Cl Ca2 P3 83.47(6) . . ? 
+O3 Ca2 P3 29.736(19) 10_556 . ? 
+O3 Ca2 P3 29.736(19) . . ? 
+O2 Ca2 P3 170.35(3) 3_675 . ? 
+F Ca2 P3 78.809(10) . 3_675 ? 
+O3 Ca2 P3 77.60(2) 5_565 3_675 ? 
+O3 Ca2 P3 77.60(2) 8_565 3_675 ? 
+O1 Ca2 P3 128.70(3) 2_655 3_675 ? 
+Cl Ca2 P3 79.54(9) 10_556 3_675 ? 
+Cl Ca2 P3 79.54(9) . 3_675 ? 
+O3 Ca2 P3 144.39(2) 10_556 3_675 ? 
+O3 Ca2 P3 144.39(2) . 3_675 ? 
+O2 Ca2 P3 27.83(2) 3_675 3_675 ? 
+P3 Ca2 P3 161.820(13) . 3_675 ? 
+F Ca2 P3 173.687(13) . 2_655 ? 
+O3 Ca2 P3 78.95(2) 5_565 2_655 ? 
+O3 Ca2 P3 78.95(2) 8_565 2_655 ? 
+O1 Ca2 P3 21.20(3) 2_655 2_655 ? 
+Cl Ca2 P3 158.3(12) 10_556 2_655 ? 
+Cl Ca2 P3 158.3(12) . 2_655 ? 
+O3 Ca2 P3 92.78(2) 10_556 2_655 ? 
+O3 Ca2 P3 92.78(2) . 2_655 ? 
+O2 Ca2 P3 79.67(2) 3_675 2_655 ? 
+P3 Ca2 P3 90.676(14) . 2_655 ? 
+P3 Ca2 P3 107.505(14) 3_675 2_655 ? 
+O3 P3 O3 107.31(7) . 10_556 ? 
+O3 P3 O2 111.06(4) . . ? 
+O3 P3 O2 111.06(4) 10_556 . ? 
+O3 P3 O1 108.05(5) . . ? 
+O3 P3 O1 108.05(5) 10_556 . ? 
+O2 P3 O1 111.17(7) . . ? 
+O3 P3 Ca2 53.89(3) . . ? 
+O3 P3 Ca2 53.89(3) 10_556 . ? 
+O2 P3 Ca2 133.35(5) . . ? 
+O1 P3 Ca2 115.48(5) . . ? 
+O3 P3 Ca1 112.62(4) . 7_666 ? 
+O3 P3 Ca1 61.08(4) 10_556 7_666 ? 
+O2 P3 Ca1 135.83(3) . 7_666 ? 
+O1 P3 Ca1 47.86(3) . 7_666 ? 
+Ca2 P3 Ca1 80.144(9) . 7_666 ? 
+O3 P3 Ca1 61.08(4) . 4_664 ? 
+O3 P3 Ca1 112.61(4) 10_556 4_664 ? 
+O2 P3 Ca1 135.83(3) . 4_664 ? 
+O1 P3 Ca1 47.86(3) . 4_664 ? 
+Ca2 P3 Ca1 80.144(9) . 4_664 ? 
+Ca1 P3 Ca1 65.215(13) 7_666 4_664 ? 
+O3 P3 Ca2 79.53(4) . 2_765 ? 
+O3 P3 Ca2 79.53(4) 10_556 2_765 ? 
+O2 P3 Ca2 55.17(5) . 2_765 ? 
+O1 P3 Ca2 166.34(5) . 2_765 ? 
+Ca2 P3 Ca2 78.179(13) . 2_765 ? 
+Ca1 P3 Ca2 140.558(9) 7_666 2_765 ? 
+Ca1 P3 Ca2 140.556(9) 4_664 2_765 ? 
+O3 P3 Ca2 122.59(4) . 3_665 ? 
+O3 P3 Ca2 122.60(4) 10_556 3_665 ? 
+O2 P3 Ca2 77.32(5) . 3_665 ? 
+O1 P3 Ca2 33.84(4) . 3_665 ? 
+Ca2 P3 Ca2 149.324(14) . 3_665 ? 
+Ca1 P3 Ca2 74.122(8) 7_666 3_665 ? 
+Ca1 P3 Ca2 74.122(8) 4_664 3_665 ? 
+Ca2 P3 Ca2 132.496(14) 2_765 3_665 ? 
+Cl F Cl 179.997(2) 10_556 . ? 
+Cl F Ca2 90.00(2) 10_556 2_765 ? 
+Cl F Ca2 90.00(2) . 2_765 ? 
+Cl F Ca2 90.00(3) 10_556 . ? 
+Cl F Ca2 90.00(3) . . ? 
+Ca2 F Ca2 120.0 2_765 . ? 
+Cl F Ca2 89.999(7) 10_556 3_675 ? 
+Cl F Ca2 89.999(7) . 3_675 ? 
+Ca2 F Ca2 120.0 2_765 3_675 ? 
+Ca2 F Ca2 120.0 . 3_675 ? 
+P3 O1 Ca2 124.96(7) . 3_665 ? 
+P3 O1 Ca1 104.40(4) . 7_666 ? 
+Ca2 O1 Ca1 113.75(3) 3_665 7_666 ? 
+P3 O1 Ca1 104.40(4) . 4_664 ? 
+Ca2 O1 Ca1 113.75(3) 3_665 4_664 ? 
+Ca1 O1 Ca1 89.48(4) 7_666 4_664 ? 
+P3 O2 Ca1 129.83(3) . 1_655 ? 
+P3 O2 Ca1 129.83(3) . 10_656 ? 
+Ca1 O2 Ca1 91.04(4) 1_655 10_656 ? 
+P3 O2 Ca2 97.00(5) . 2_765 ? 
+Ca1 O2 Ca2 101.77(4) 1_655 2_765 ? 
+Ca1 O2 Ca2 101.76(4) 10_656 2_765 ? 
+P3 O3 Ca2 142.09(5) . 9_655 ? 
+P3 O3 Ca2 96.37(4) . . ? 
+Ca2 O3 Ca2 117.44(3) 9_655 . ? 
+P3 O3 Ca1 90.35(4) . 4_664 ? 
+Ca2 O3 Ca1 99.95(3) 9_655 4_664 ? 
+Ca2 O3 Ca1 99.17(3) . 4_664 ? 
+F Cl Cl 0.001(7) . 10_556 ? 
+F Cl Cl 179.999(4) . 7_775 ? 
+Cl Cl Cl 179.997(17) 10_556 7_775 ? 
+F Cl Ca2 69.2(13) . 2_765 ? 
+Cl Cl Ca2 69.2(13) 10_556 2_765 ? 
+Cl Cl Ca2 110.8(13) 7_775 2_765 ? 
+F Cl Ca2 69.2(13) . . ? 
+Cl Cl Ca2 69.2(13) 10_556 . ? 
+Cl Cl Ca2 110.8(13) 7_775 . ? 
+Ca2 Cl Ca2 108.1(14) 2_765 . ? 
+F Cl Ca2 69.2(13) . 3_675 ? 
+Cl Cl Ca2 69.2(13) 10_556 3_675 ? 
+Cl Cl Ca2 110.8(13) 7_775 3_675 ? 
+Ca2 Cl Ca2 108.1(14) 2_765 3_675 ? 
+Ca2 Cl Ca2 108.1(14) . 3_675 ? 
+ 
+_diffrn_measured_fraction_theta_max    0.994 
+_diffrn_reflns_theta_full              34.79 
+_diffrn_measured_fraction_theta_full   0.994 
+_refine_diff_density_max    0.887 
+_refine_diff_density_min   -0.425 
+_refine_diff_density_rms    0.086 
