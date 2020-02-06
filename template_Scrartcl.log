@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.23)  2 FEB 2020 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.23)  4 FEB 2020 23:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1172,7 +1172,7 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rot@mess@toks=\toks44
 )
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 59.
+h' as default language. on input line 64.
 
 Package chemmacros Info: You haven't chosen a formula method so I'm assuming
 (chemmacros)             the default method `chemformula'.
@@ -1424,34 +1424,37 @@ Package: chemformula 2019/10/13 v4.15h typeset chemical compounds and reactions
 \l__chemformula_additions_symbol_space_skip=\skip91
 \l__chemformula_plus_space_skip=\skip92
 \l__chemformula_minus_space_skip=\skip93
-) (./template_Scrartcl.aux)
+) (./template_Scrartcl.aux
+
+LaTeX Warning: Label `bvs' multiply defined.
+
+)
 \openout1 = `template_Scrartcl.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
-9.
-
-(c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+4.
+ (c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 59.
-Package scrbase Info: activating english \contentsname on input line 59.
-Package scrbase Info: activating english \listfigurename on input line 59.
-Package scrbase Info: activating english \listtablename on input line 59.
+LaTeX Font Info:    ... okay on input line 64.
+Package scrbase Info: activating english \contentsname on input line 64.
+Package scrbase Info: activating english \listfigurename on input line 64.
+Package scrbase Info: activating english \listtablename on input line 64.
 
 (c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1489,7 +1492,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring ON on input line 59.
+Package hyperref Info: Link coloring ON on input line 64.
 
 (c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1502,9 +1505,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count338
 )
-LaTeX Info: Redefining \ref on input line 59.
-LaTeX Info: Redefining \pageref on input line 59.
-LaTeX Info: Redefining \nameref on input line 59.
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
 
 (./template_Scrartcl.out) (./template_Scrartcl.out)
 \@outlinefile=\write4
@@ -1517,7 +1520,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 59.
+(scrartcl)           before \begin{document} on input line 64.
 
 (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
 Package: bookmark 2019/06/04 v1.27 PDF bookmarks (HO)
@@ -1578,101 +1581,84 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 59.
+or `english'. on input line 64.
 
-Package chemgreek Info: Activating mapping `upgreek' on line 59.
+Package chemgreek Info: Activating mapping `upgreek' on line 64.
 
  ABD: EveryShipout initializing macros [1
 
 
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Reference `least_squ' on page 2 undefined on input line 129.
-
-[2]
-<files-to-include/hk0.jpg, id=41, 1268.74pt x 1268.74pt>
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<files-to-include/hk0.jpg, id=44, 1268.74pt x 1268.74pt>
 File: files-to-include/hk0.jpg Graphic file (type jpg)
 <use files-to-include/hk0.jpg>
-Package pdftex.def Info: files-to-include/hk0.jpg  used on input line 147.
+Package pdftex.def Info: files-to-include/hk0.jpg  used on input line 159.
 (pdftex.def)             Requested size: 190.30278pt x 190.30278pt.
-<files-to-include/2kl.jpg, id=42, 1268.74pt x 1268.74pt>
+<files-to-include/2kl.jpg, id=45, 1268.74pt x 1268.74pt>
 File: files-to-include/2kl.jpg Graphic file (type jpg)
 <use files-to-include/2kl.jpg>
-Package pdftex.def Info: files-to-include/2kl.jpg  used on input line 149.
+Package pdftex.def Info: files-to-include/2kl.jpg  used on input line 161.
 (pdftex.def)             Requested size: 190.30278pt x 190.30278pt.
-<files-to-include/gr5ap_nice_cropped.jpg, id=43, 596.82974pt x 332.442pt>
+<files-to-include/gr5ap_nice_cropped.jpg, id=46, 596.82974pt x 332.442pt>
 File: files-to-include/gr5ap_nice_cropped.jpg Graphic file (type jpg)
 <use files-to-include/gr5ap_nice_cropped.jpg>
 Package pdftex.def Info: files-to-include/gr5ap_nice_cropped.jpg  used on input
- line 156.
+ line 168.
 (pdftex.def)             Requested size: 190.98941pt x 106.3836pt.
-<files-to-include/gr5apIIc_cropped.jpg, id=44, 582.37575pt x 327.624pt>
+<files-to-include/gr5apIIc_cropped.jpg, id=47, 582.37575pt x 327.624pt>
 File: files-to-include/gr5apIIc_cropped.jpg Graphic file (type jpg)
 <use files-to-include/gr5apIIc_cropped.jpg>
 Package pdftex.def Info: files-to-include/gr5apIIc_cropped.jpg  used on input l
-ine 158.
+ine 170.
 (pdftex.def)             Requested size: 186.36404pt x 104.84181pt.
- [3 <./files-to-include/hk0.jpg> <./files-to-include/2kl.jpg> <./files-to-inclu
-de/gr5ap_nice_cropped.jpg> <./files-to-include/gr5apIIc_cropped.jpg>]
-Overfull \hbox (4.90465pt too wide) in paragraph at lines 203--216
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./files-to-include/hk0.jpg> <./files-to-include/2kl.jpg>]
+Overfull \hbox (7.7046pt too wide) in paragraph at lines 215--253
  [][][] 
  []
 
+[4 <./files-to-include/gr5ap_nice_cropped.jpg> <./files-to-include/gr5apIIc_cro
+pped.jpg>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 221.
+               Default added (so using `tbp') on input line 278.
 
 
-Overfull \hbox (14.9837pt too wide) in paragraph at lines 224--244
+Overfull \hbox (35.00775pt too wide) in paragraph at lines 281--303
  [][] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 325.
+               Default added (so using `tbp') on input line 327.
 
 
-Overfull \hbox (14.9837pt too wide) in paragraph at lines 329--349
+Overfull \hbox (35.00775pt too wide) in paragraph at lines 331--353
  [][] 
  []
 
-
-Overfull \hbox (134.8359pt too wide) in paragraph at lines 360--372
-\OT1/cmr/m/n/10.95 Ripoll, Mar-tin Mar-tinez. The Pat-ter-son Func-tion and the
- Pat-ter-son Method, www.xtal.iqfr.csic.es/Cristalografia/parte[]07[]3-
- []
-
-
-Overfull \hbox (27.03094pt too wide) in paragraph at lines 360--372
-\OT1/cmr/m/n/10.95 The Pat-ter-son Func-tion, www.bio.brandeis.edu/classes/arch
-ives/biochem102/sftut/frame[]patt1.html. 
- []
-
-
-Overfull \hbox (112.84863pt too wide) in paragraph at lines 360--372
-\OT1/cmr/m/n/10.95 \X-Ray Diffrac-tion." X-Ray Diffrac-tion - an Overview | Sci
--enceDi-rect Top-ics, www.sciencedirect.com/topics/materials-
- []
-
-[4] [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 373.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 373.
+[5] (./template_Scrartcl.bbl) [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 387.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 387.
  (./template_Scrartcl.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 373.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 373.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 387.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 387.
 Package rerunfilecheck Info: File `template_Scrartcl.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 373.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 387.
  ) 
 Here is how much of TeX's memory you used:
- 39087 strings out of 493879
- 776222 string characters out of 6166973
- 972187 words of memory out of 5000000
- 42609 multiletter control sequences out of 15000+600000
+ 39113 strings out of 493879
+ 776681 string characters out of 6166973
+ 975187 words of memory out of 5000000
+ 42625 multiletter control sequences out of 15000+600000
  552503 words of font info for 93 fonts, out of 8000000 for 9000
  101 hyphenation exceptions out of 8191
  103i,15n,118p,10092b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1691,10 +1677,10 @@ ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts
 lic/amsfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm10
 95.pfb>
-Output written on template_Scrartcl.pdf (6 pages, 584112 bytes).
+Output written on template_Scrartcl.pdf (6 pages, 590131 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
